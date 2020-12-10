@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-democordovaplugin",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-democordovaplugin",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepak-gl/DemoCordovaPlugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepak-gl/DemoCordovaPlugin/issues"
+  },
+  "homepage": "https://github.com/deepak-gl/DemoCordovaPlugin#readme"
+}
