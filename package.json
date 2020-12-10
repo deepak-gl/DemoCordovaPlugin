@@ -1,7 +1,7 @@
 {
   "name": "cordova-plugin-democordovaplugin",
   "version": "1.0.0",
-  "description": "",
+  "description": "demo",
   "cordova": {
     "id": "cordova-plugin-democordovaplugin",
     "platforms": [
@@ -18,7 +18,7 @@
     "cordova-ios",
     "cordova-android"
   ],
-  "author": "",
+  "author": "Deepak",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/deepak-gl/DemoCordovaPlugin/issues"
