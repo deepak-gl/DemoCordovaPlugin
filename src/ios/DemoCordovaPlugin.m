@@ -7,6 +7,8 @@
 }
 
 - (void)coolMethod:(CDVInvokedUrlCommand*)command;
+- (void)test:(CDVInvokedUrlCommand*)command;
+
 @end
 
 @implementation DemoCordovaPlugin
@@ -23,6 +25,10 @@
     }
 
     [self.commandDelegate sendPluginResult:pluginResult callbackId:command.callbackId];
+}
+
+-(void) test:(CDVInvokedUrlCommand*)command {
+    
 }
 
 @end
