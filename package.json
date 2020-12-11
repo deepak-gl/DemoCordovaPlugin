@@ -2,6 +2,10 @@
   "name": "cordova-plugin-democordovaplugin",
   "version": "2.0.0",
   "description": "demo",
+  "publishConfig": {
+      "access": "public",
+      "branches": ["master"]
+  },
   "cordova": {
     "id": "cordova-plugin-democordovaplugin",
     "platforms": [
